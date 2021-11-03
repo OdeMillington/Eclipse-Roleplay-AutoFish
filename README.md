@@ -4,6 +4,12 @@ It uses optical character reader modules to accomplish this.  It reads the top o
 the keywords in which the server displays then it automatically presses "K" and opens the inventory and pulls the fishing rod back out.
 
 
+# Requirements
+
+1. Tesseract must be installed.
+2. Must have GTA 5 and on the Eclipse RP server
+3. Must be tabbed into the GTA 5, as the script controls button and mouse movements.
+
 # Installation 
 
 1. tesseract-ocr-w64-setup-v5.0.0-alpha.20210811.exe **MUST** be installed to C:\Program Files (x86)
@@ -19,3 +25,4 @@ the keywords in which the server displays then it automatically presses "K" and 
 # Warnings
 
 **This script may result in a ban from the server if caught.**
+
