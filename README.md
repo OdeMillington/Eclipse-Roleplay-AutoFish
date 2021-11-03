@@ -12,7 +12,7 @@ the keywords in which the server displays then it automatically presses "K" and 
 
 # Installation 
 
-1. tesseract-ocr-w64-setup-v5.0.0-alpha.20210811.exe **MUST** be installed to C:\Program Files (x86)
+1. Tesseract **MUST** be installed to C:\Program Files (x86)
 2. eclipsefishscript.exe can be installed where you wish
 
 
