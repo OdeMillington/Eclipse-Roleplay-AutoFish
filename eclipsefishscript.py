@@ -9,8 +9,6 @@ pytesseract.pytesseract.tesseract_cmd = (
     r"C:\Program Files (x86)\Tesseract-OCR\tesseract.exe"
 )
 
-
-
 while True:
     screenshot = ImageGrab.grab(bbox=(500, 0, 1920, 110))
     screenshot.save("ECLIPSE.png")
