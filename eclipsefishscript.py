@@ -9,19 +9,7 @@ pytesseract.pytesseract.tesseract_cmd = (
     r"C:\Program Files (x86)\Tesseract-OCR\tesseract.exe"
 )
 
-#
-# def afk_avoid():
-#     screenshot2 = ImageGrab.grab(bbox=)
-#     screenshot2.save("AFK_math.png")
-#     text2 = str(pytesseract.image_to_string("AFK_math.png", config='--psm 7')).split()
-#     if "AFK" in text2:
-#         keyboard.press_and_release("k")
-#         time.sleep(2)
-#         keyboard.press_and_release("a")
-#         keyboard.press("a")
-#         time.sleep(0.1)
-#         keyboard.press()
-#
+
 
 while True:
     screenshot = ImageGrab.grab(bbox=(500, 0, 1920, 110))
