@@ -6,10 +6,10 @@ the keywords in which the server displays then it automatically presses "K" and 
 
 # Requirements
 
-1. Tesseract must be installed.
+1. Tesseract must be installed (https://github.com/UB-Mannheim/tesseract/wiki)
 2. Must have GTA 5 and on the Eclipse RP server.
 3. Must be tabbed into the GTA 5, as the script controls button and mouse movements.
-4. Works best in 1920 x 1080 resolution and 100% scaling in windows display settings. 
+4. Works only in 1920 x 1080 resolution and 100% scaling in windows display settings. 
 
 # Installation 
 
