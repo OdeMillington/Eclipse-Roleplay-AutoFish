@@ -1,4 +1,4 @@
-# Eclipse-Roleplay-AutoFish
+# Eclipse-Roleplay-Auto-Fisher
 This program automatically catches fish in Eclipse Roleplay GTA V server.
 It uses optical character reader modules to accomplish this.  It reads the top of the screen and checks for
 the keywords in which the server displays then it automatically presses "K" and opens the inventory and pulls the fishing rod back out.
@@ -14,7 +14,7 @@ the keywords in which the server displays then it automatically presses "K" and 
 # Installation 
 
 1. Tesseract **MUST** be installed to C:\Program Files (x86)
-2. eclipsefishscript.exe can be installed where you wish
+2. eclipseautofisher.exe can be installed where you wish
 
 
 # Recommendations
